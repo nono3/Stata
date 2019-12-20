@@ -1,5 +1,0 @@
-v 3
-d Programs by Nobuaki Michihata, Department of Health Services Research,Graduate School of Medicine, The University of Tokyo.
-p anythingtodate Convert all types of date variables to Stata date variables
-
-* https://www.stata.com/manuals/rnet.pdf
