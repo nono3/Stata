@@ -4,6 +4,7 @@ program define anythingtodate
 *! Author:  Nobuaki Michihata
 *! e-mail:  gha10771+stata@gmail.com
 *! Date:    December 25, 2019
+
 version 11.0
 syntax varlist [, Keepvarlists Format(string asis) Reference(integer 19000000) ]
 tokenize "`0'",parse(" ,")
